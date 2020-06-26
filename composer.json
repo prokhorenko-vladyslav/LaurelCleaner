@@ -1,0 +1,14 @@
+{
+    "name": "laurel/cleaner",
+    "description": "Model cleaner for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prokhorenko Vladyslav",
+            "email": "random.person.1907@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
